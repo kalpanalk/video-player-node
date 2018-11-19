@@ -1,0 +1,24 @@
+{
+  "name": "website01",
+  "version": "1.0.0",
+  "description": "good",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "sumukh"
+  },
+  "keywords": [
+    "g"
+  ],
+  "author": "Sumukh Shet Shirodker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5",
+    "sqlite3": "^4.0.2"
+  }
+}
